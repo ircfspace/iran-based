@@ -66,7 +66,7 @@ const data = [
     description: ["دریافت IP ایران با شادولینک"],
   },
   {
-    title: "سرورلس GFW-Knocker",
+    title: "سرورلس <br />GFW-Knocker",
     location: "check",
     ip: "check",
     hideIP: "x",
@@ -77,7 +77,7 @@ const data = [
     description: ["برای استفاده عادی", "برای مواقع اضطراری"],
   },
   {
-    title: "سرورلس GFW-Slayer",
+    title: "سرورلس <br />GFW-Slayer",
     location: "check",
     ip: "check",
     hideIP: "x",
