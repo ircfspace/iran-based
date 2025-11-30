@@ -134,7 +134,9 @@ const data = [
     youtube: "check",
     x: "check",
     ai: "x",
-    description: ["با استفاده از اپ‌هایی نظیر Intra امکان دسترسی میسر می‌شود."],
+    description: [
+      "با استفاده از اپ‌هایی نظیر Intra یا WIG امکان دسترسی میسر می‌شود.",
+    ],
   },
   {
     title: "MTProto",
