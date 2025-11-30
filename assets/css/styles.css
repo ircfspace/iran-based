@@ -21,3 +21,7 @@ td.title-cell {
   width: 130px;
   word-wrap: break-word;
 }
+
+.maxHeight {
+  max-height: 60vh;
+}
