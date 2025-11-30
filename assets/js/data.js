@@ -98,7 +98,7 @@ const data = [
     youtube: "check",
     x: "check",
     ai: "check",
-    description: ["هنگام استفاده از متد سرورلس"],
+    description: ["هنگام استفاده از متد سرورلس برای مواقع اضطراری"],
   },
   {
     title: "MahsaNG",
