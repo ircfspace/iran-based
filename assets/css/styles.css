@@ -25,3 +25,7 @@ td.title-cell {
 .maxHeight {
   max-height: 65vh;
 }
+
+td a {
+  color: blue;
+}

@@ -12,7 +12,7 @@ const data = [
       "اینترنت اساتید، دانشجویان، خبرنگاران و ...",
       "فعالیت سایبری",
       "استفاده از اینترنت سفید محل کار",
-      "فعالسازی با درخواست",
+      "برخورداری از اینترنت سفید با ارائه درخواست",
       "اختلال مقطعی در GFW",
       "فعالسازی به‌صورت اشتباه",
     ],
@@ -63,7 +63,9 @@ const data = [
     youtube: "check",
     x: "check",
     ai: "check",
-    description: ["دریافت IP ایران با شادولینک"],
+    description: [
+      "امکان مخفی‌کردن آیپی استارلینک پشت سرور ایران توسط <a href='https://github.com/maverick0x07/shadowlink' target='_blank'>شادولینک</a> وجود دارد.",
+    ],
   },
   {
     title: "سرورلس <br />GFW-Knocker",
@@ -96,12 +98,7 @@ const data = [
     youtube: "check",
     x: "check",
     ai: "check",
-    description: [
-      "با استفاده از Warp",
-      "درصورت اختلال متد Gool",
-      "با استفاده از کانفیگ گیمینگ",
-      "با استفاده از متد سرورلس",
-    ],
+    description: ["هنگام استفاده از متد سرورلس"],
   },
   {
     title: "MahsaNG",
@@ -124,9 +121,20 @@ const data = [
     x: "check",
     ai: "check",
     description: [
-      "با استفاده از روش‌های مختلف تانل‌کردن",
-      "استفاده از سرور با IP وایت‌لیست ",
+      "روش‌های مختلفی برای تانل‌کردن وجود دارد.",
+      "استفاده از سرور با IP وایت‌لیست.",
     ],
+  },
+  {
+    title: "DNS",
+    location: "check",
+    ip: "check",
+    hideIP: "x",
+    telegram: "x",
+    youtube: "check",
+    x: "check",
+    ai: "x",
+    description: ["با استفاده از اپ‌هایی نظیر Intra امکان دسترسی میسر می‌شود."],
   },
   {
     title: "MTProto",
