@@ -1,0 +1,23 @@
+body {
+  font: 300 17px shabnam;
+}
+
+.page-container {
+  width: 900px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+td.desc-cell {
+  min-width: 250px;
+  max-width: 250px;
+  width: 250px;
+  word-wrap: break-word;
+}
+td.title-cell {
+  min-width: 130px;
+  max-width: 150px;
+  width: 130px;
+  word-wrap: break-word;
+}
