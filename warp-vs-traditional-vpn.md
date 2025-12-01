@@ -6,13 +6,13 @@
 
 طبق اعلام کلودفلر، وارپ اگرچه از نظر فنی یک VPN است و داده‌های شما را امن و از شنود محافظت می‌کند، اما یک VPN سنتی نیست و موقعیت جغرافیایی شما را از وب‌سایت‌هایی که بازدید می‌کنید پنهان نمی‌کند. [[+]](https://blog.cloudflare.com/announcing-warp-plus/?utm_source=chatgpt.com/#what-warp-is-not)
 
-![warp](.github/screenshot-1.png)
+![warp](.github/screenshot/screenshot-1.png)
 
 ## استفاده از وارپ ریسک دارد؟
 
 بر اساس مستندات کلودفلر، اگرچه در استفاده از Warp یا Masque موقعیت تقریبی شما یعنی کشوری که از آن به اینترنت متصل شده‌اید مشخص خواهد بود، اما آدرس IP اصلی شما با یک IP از شبکه کلودفلر جایگزین می‌شود و اشخاص ثالث از طریق IP قادر به شناسایی شما نخواهند بود. [[+]](https://developers.cloudflare.com/warp-client/known-issues-and-faq/?utm_source=chatgpt.com#does-warp-reveal-my-ip-address-to-websites-i-visit)
 
-![warp](.github/screenshot-2.png)
+![warp](.github/screenshot/screenshot-2.png)
 
 بسیاری از VPNها به کاربران خود اجازه می‌دهند کشور خروجی را پس‌از اتصال انتخاب کنند، تا لوکیشنی متفاوت نمایش داده شود؛ اما وارپ یا مسک اینگونه عمل نمی‌کنند. بنابراین اگر از ایران توسط وارپ یا مسک متصل شده باشید، لوکیشن شما همان ایران خواهد بود، اما IP شما به آیپی کلودفلر تغییر می‌کند.
 
