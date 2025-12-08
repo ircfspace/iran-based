@@ -4,8 +4,8 @@
 
 It also includes two wikis covering:
 
-- **Serverless Risks** – Overview of potential risks and security considerations.
 - **Warp vs Traditional VPN** – Insights into Warp performance compared to conventional VPN solutions.
+- **Serverless Risks** – Overview of potential risks and security considerations.
 
 <a href="https://ircfspace.github.io/iran-based/" target="_blank">
     <img style="width: 100%" src=".github/images/screenshot.jpg" alt="screenshot" />
@@ -16,8 +16,8 @@ Explore the interactive guide online:
 
 Wikis:
 
-- [Serverless Overview](serverless-risk-overview.md)
 - [Warp vs Traditional VPN](warp-vs-traditional-vpn.md)
+- [Serverless Overview](serverless-risk-overview.md)
 
 ---
 
@@ -29,15 +29,15 @@ Wikis:
 
 دو ویکی هم شامل می‌شود:
 
-- **ریسک‌های سرورلس** – مرور ریسک‌ها و نکات امنیتی.
 - **وارپ در برابر VPN سنتی** – مقایسه عملکرد وارپ با VPNهای معمولی.
+- **ریسک‌های سرورلس** – مرور ریسک‌ها و نکات امنیتی.
 
 راهنمای تعاملی آنلاین را ببینید:  
 [https://ircfspace.github.io/iran-based](https://ircfspace.github.io/iran-based/)
 
 ویکی‌ها:
 
-- [بررسی ریسک‌های سرورلس](serverless-risk-overview.md)
 - [وارپ در برابر VPN سنتی](warp-vs-traditional-vpn.md)
+- [بررسی ریسک‌های سرورلس](serverless-risk-overview.md)
 
 </div>
