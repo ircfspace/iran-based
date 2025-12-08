@@ -1,9 +1,43 @@
-# Iran-Based Connection Methods
+# 🇬🇧 Iran-Based Connection Methods
 
-A curated list of methods, services, and network paths that result in connectivity originating from Iran or provide an Iran-based IP address.
+**Iran-Based** is a curated collection of methods, services, and network paths that provide connectivity from Iran or using an Iran-based IP. This repository is **not a software tool**, but a reference guide and knowledge base for Iran-based networking.
+
+It also includes two wikis covering:
+
+- **Serverless Risks** – Overview of potential risks and security considerations.
+- **Warp vs Traditional VPN** – Insights into Warp performance compared to conventional VPN solutions.
 
 <a href="https://ircfspace.github.io/iran-based/" target="_blank">
     <img style="width: 100%" src=".github/images/screenshot.jpg" alt="screenshot" />
 </a>
 
-- https://ircfspace.github.io/iran-based
+Explore the interactive guide online:  
+[https://ircfspace.github.io/iran-based](https://ircfspace.github.io/iran-based/)
+
+Wikis:
+
+- [Serverless Overview](serverless-risk-overview.md)
+- [Warp vs Traditional VPN](warp-vs-traditional-vpn.md)
+
+---
+
+# 🇮🇷 روش‌های اتصال ایران‌محور
+
+<div dir="rtl">
+
+**Iran-Based** مجموعه‌ای از روش‌ها، سرویس‌ها و مسیرهای شبکه است که اتصال از ایران یا با IP ایران را امکان‌پذیر می‌کند. این ریپو **ابزار نرم‌افزاری نیست**، بلکه یک راهنمای مرجع و دانشنامه برای شبکه‌های ایران‌محور است.
+
+دو ویکی هم شامل می‌شود:
+
+- **ریسک‌های سرورلس** – مرور ریسک‌ها و نکات امنیتی.
+- **وارپ در برابر VPN سنتی** – مقایسه عملکرد وارپ با VPNهای معمولی.
+
+راهنمای تعاملی آنلاین را ببینید:  
+[https://ircfspace.github.io/iran-based](https://ircfspace.github.io/iran-based/)
+
+ویکی‌ها:
+
+- [بررسی ریسک‌های سرورلس](serverless-risk-overview.md)
+- [وارپ در برابر VPN سنتی](warp-vs-traditional-vpn.md)
+
+</div>
